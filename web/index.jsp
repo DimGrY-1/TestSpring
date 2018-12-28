@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  test123333
+  testNew
   $END$
   </body>
 </html>
